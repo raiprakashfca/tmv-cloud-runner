@@ -12,3 +12,7 @@ streamlit-autorefresh
 gspread-dataframe
 matplotlib
 fpdf
+pytz
+holidays
+schedule
+python-dotenv
